@@ -1,4 +1,0 @@
-﻿  源.cpp
-D:\vs代码\8.1\8.1\源.cpp(8,9): warning C4101: “b”: 未引用的局部变量
-D:\vs代码\8.1\8.1\源.cpp(8,12): warning C4101: “c”: 未引用的局部变量
-  8.1.vcxproj -> D:\vs代码\8.1\x64\Debug\8.1.exe
