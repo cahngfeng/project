@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "队列", "队列\队列.vcxproj", "{89991098-8D44-4837-9661-BED75CD60500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89991098-8D44-4837-9661-BED75CD60500}.Debug|x64.ActiveCfg = Debug|x64
+		{89991098-8D44-4837-9661-BED75CD60500}.Debug|x64.Build.0 = Debug|x64
+		{89991098-8D44-4837-9661-BED75CD60500}.Debug|x86.ActiveCfg = Debug|Win32
+		{89991098-8D44-4837-9661-BED75CD60500}.Debug|x86.Build.0 = Debug|Win32
+		{89991098-8D44-4837-9661-BED75CD60500}.Release|x64.ActiveCfg = Release|x64
+		{89991098-8D44-4837-9661-BED75CD60500}.Release|x64.Build.0 = Release|x64
+		{89991098-8D44-4837-9661-BED75CD60500}.Release|x86.ActiveCfg = Release|Win32
+		{89991098-8D44-4837-9661-BED75CD60500}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E31E704-C8EE-4BD8-A81B-7247CA5360A3}
+	EndGlobalSection
+EndGlobal
